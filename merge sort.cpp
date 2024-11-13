@@ -1,7 +1,7 @@
-//Harsh Gangadhar Chakote
+//Ramkrushna Gangadhar Murkute
 //SE-II (Q)
-//Roll No.: 31
-//PRN: F23112034
+//Roll No.: 38
+//PRN: F23112044
 
 // Write a program to implement merge sort in C++ language.
 
